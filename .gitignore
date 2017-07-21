@@ -62,3 +62,8 @@ third_party/tern_runtime/node_modules
 *.gcov
 # And python coverage output, when running manually
 coverage.xml
+
+#
+.DS_Store
+.cache
+*.sw[a-z]
